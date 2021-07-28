@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+:root {
+    --primary-color: blue;
+
+}
+
+hr {
+    margin: 2rem 0rem;
+}
+
+.container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.container-center {
+    max-width: 600px;
+    margin: auto;
+}
+
+.links {
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+.links-primary {
+    background-color: var(--primary-color);
+    border-radius: 0.5rem;
+    color: white;
+    margin: auto;
+}
+
+.links-secondary {
+    color: var(--primary-color);
+    border-radius: 0.5rem;
+    border: 1px solid var(--primary-color);
+
+}
+ /* a.links-secondary :hover  {
+    color: var(--primary-color);
+} */
+
+.list-non-bullet {
+    list-style: none;
+
+}
+
+.list-item-inline {
+    display: inline ;
+    padding: 0rem 0.5rem;
+}
+
+.navigation {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.navigation .link {
+
+    color: white;
+}
+
+.navigation .nav-brand {
+    font-weight: bold;
+    font-size: large;
+
+}
+
+.navigation .nav-pills {
+    text-align: right;
+}
+
+.navigation .link-active {
+    font-weight: bold;
+}
+.hero {
+    padding: 2rem;
+}
+.hero .hero-img {
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+ .hero .hero-heading {
+     text-align: center;
+     font-weight: bold;
+     font-size: xx-large;
+    
+    padding: 1rem;
+
+}
+
+.instagram {
+    text-align: center;
+}
