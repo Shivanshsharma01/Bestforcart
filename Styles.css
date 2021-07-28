@@ -101,6 +101,6 @@ hr {
 
 }
 
-/* .instagram {
-    text-align: center;
-} */
+.instagram {
+    text-decoration: none;
+}
