@@ -81,6 +81,7 @@ hr {
 
 .navigation .link-active {
     font-weight: bold;
+    list-style: none;
 }
 .hero {
     padding: 2rem;
@@ -100,6 +101,6 @@ hr {
 
 }
 
-.instagram {
+/* .instagram {
     text-align: center;
-}
+} */
