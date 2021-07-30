@@ -26,7 +26,7 @@ hr {
 
 .links {
     text-decoration: none;
-    padding: 0.5rem 1rem;
+    padding: 0rem 1rem;
 }
 
 .links-primary {
@@ -35,6 +35,7 @@ hr {
     color: white;
     margin: auto;
     text-decoration: none;
+    
 }
 
 .links-secondary {
