@@ -26,7 +26,8 @@ hr {
 
 .links {
     text-decoration: none;
-    padding: 0rem 1rem;
+    /* padding: 0rem 1rem; */
+    font-weight: bold;
 }
 
 .links-primary {
