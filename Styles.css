@@ -28,6 +28,8 @@ hr {
     text-decoration: none;
     /* padding: 0rem 1rem; */
     font-weight: bold;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
 }
 
 .links-primary {
